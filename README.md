@@ -105,3 +105,5 @@ Setting up a Shopify FAQ section is simple. Here’s a step-by-step guide:
 **Step 8: Setup Question :**Enter the desired question in the text field. 
 
 **Step 9: Answer:** Enter the desired answer in the text field.
+
+## Download Our [Shopify FAQ Section](https://meetanshi.com/shopify-faq-section.html)
